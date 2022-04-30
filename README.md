@@ -1,7 +1,9 @@
 ### Hi there 👋
-- 🔭 I am broadly interested in deep learning and its applications to the field of computer vision. I focus on 
-3D geometric understanding and perception, temporal motion forecasting and self-supervised representation 
-learning, particularly in the context of autonomous robots.
+- 🔭 I am broadly interested in deep learning and its applications to the field of computer vision. 
+- I focus on the following areas, particularly in the context of autonomous robots:
+  - 3D geometric understanding and perception
+  - temporal motion forecasting  
+  - self-supervised representation learning
 
 ### 📫 How to reach me
 - 🐦 Twitter: [@prarthana_bh](https://twitter.com/prarthana_bh?lang=en)
