@@ -4,6 +4,8 @@
   - 3D geometric understanding and perception
   - temporal motion forecasting  
   - self-supervised representation learning
+  
+![](https://komarev.com/ghpvc/?username=AutoVision-cloud&color=blue)
 
 ### 📫 How to reach me
 - 🐦 Twitter: [@prarthana_bh](https://twitter.com/prarthana_bh?lang=en)
