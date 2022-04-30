@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I'm Prarthana Bhattacharyya, currently a Ph.D. Candidate at University of Waterloo.
-- 🔭 I am broadly interested in deep learning and its applications to the field of computer vision. 
+- 🔭 I'm broadly interested in deep learning and its applications to the field of computer vision. 
 - I focus on the following areas, particularly in the context of autonomous robots:
   - 3D geometric understanding and perception
   - temporal motion forecasting  
