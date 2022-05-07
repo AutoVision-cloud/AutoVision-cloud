@@ -6,13 +6,6 @@
   - temporal motion forecasting  
   - self-supervised representation learning
   
-![](https://komarev.com/ghpvc/?username=AutoVision-cloud&color=blue)
-
-### 📫 How to reach me
-- 🐦 Twitter: [@prarthana_bh](https://twitter.com/prarthana_bh?lang=en)
-- 👥 LinkedIn [Prarthana Bhattacharyya](https://www.linkedin.com/in/prarthana-bhattacharyya-44582a79/)
-
-
 <table><tr><td valign="top" width="50%">
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AutoVision-cloud&show_icons=true&count_private=true&theme=tokyonight" alt="shreyansh26" />
