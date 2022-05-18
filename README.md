@@ -6,7 +6,7 @@
   - temporal motion forecasting  
   - self-supervised representation learning
   
-![Prarthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AutoVision-cloud&show_icons=true&theme=cobalt)
+![Prarthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AutoVision-cloud&count_private=true&show_icons=true&theme=cobalt)
 
 
 <!--
