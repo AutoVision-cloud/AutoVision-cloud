@@ -11,8 +11,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AutoVision-cloud&show_icons=true&count_private=true&theme=tokyonight" alt="shreyansh26" />
 
 </td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AutoVision-cloud&hide_border=true&layout=compact&include_all_commits=true" align="left" style="width: 90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=[AutoVision-cloud]&include_all_commits=true" align="left" style="width: 90%" />
 
 </td></tr></table>  
 
